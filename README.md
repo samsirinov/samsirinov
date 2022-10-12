@@ -6,4 +6,3 @@
 - 📫 How to reach me samsirinov@hotmail.com ||  +994516000890 || samsirinov.com
 - 
 ![counter](https://en62knrojam32k7.m.pipedream.net)
-
