@@ -1,6 +1,6 @@
 
-<div style="    background-image: url(https://img1.picmix.com/output/stamp/normal/9/7/9/4/1614979_55cfc.gif);
-    background-size: cover;" align="center"><h1>Samad Shirinov</h1></div>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6f027f63393359.5ab4ecb5ebad9.gif" alt="Contributions" width="722px" height="112px" />
+<div align="center"><h1>Samad Shirinov</h1></div>
 <div align="center">
   <a href="mailto:sirinovsam@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a> 
 
