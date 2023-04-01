@@ -1,7 +1,10 @@
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/6f027f63393359.5ab4ecb5ebad9.gif" alt="Contributions" width="722px" height="112px" />
-<div align="center"><h1>Samad Shirinov</h1></div>
 <div align="center">
+    <img src="https://media1.giphy.com/media/hqabKVZEZJQuBKvAbU/giphy.gif?cid=6c09b952653d8e9116a21c740828649665c0b912182fb31f&rid=giphy.gif" alt="Contributions" width="722px"  />
+  <h1>Samad Shirinov</h1></div>
+<div align="center">
+
+  
   <a href="mailto:sirinovsam@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a> 
 
    ![counter](https://en62knrojam32k7.m.pipedream.net)
