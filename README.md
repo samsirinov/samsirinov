@@ -2,8 +2,9 @@
 <div align="center"><h1>Samad Shirinov</h1></div>
 <div align="center">
    <a href="[https://www.linkedin.com/in/ilkin-rufullayev-923628240/](https://www.linkedin.com/in/samsirinov/)" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:sirinovsam@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a>
-![counter](https://en62knrojam32k7.m.pipedream.net)
+  <a href="mailto:sirinovsam@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a> 
+
+   ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
 
 - 👋 Hi, I’m @samsirinov
