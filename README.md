@@ -13,5 +13,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me samsirinov@hotmail.com ||  +994516000890 || samsirinov.com
 - 
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
+</div>
