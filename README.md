@@ -4,7 +4,6 @@
     <h1><img width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/github.gif" />Samad Shirinov </h1></div>
 <div align="center">
 
-<img alt="SamSirinov | Gmail" width="200px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" />
 
    ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
@@ -19,7 +18,7 @@ elə deyirlər ))
 <br><br><br><br>
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-## ⛳️ My Projects
+## <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
 
 - <a href='https://azpointblank.com/' target='_blank'>PointBlank Azerbaijan - 2017-2023
 - <a href='https://www.militaryofzombies.com/' target='_blank'>Military of ZombieZ - 2022-2023
@@ -28,7 +27,7 @@ elə deyirlər ))
 <!-- blog_plugin_start -->
 
 <!-- blog_plugin_end -->
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <div align="center"> 
 <h1>🛠 Languages and Tools</h1>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>  
