@@ -14,8 +14,7 @@ I am a responsible, hardworking, and persistent individual who is committed to a
 I am always eager to learn new technologies and industry best practices.
 
     elə deyirlər ))
-    
-<Br><br>
+
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
