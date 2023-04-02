@@ -12,26 +12,27 @@ I am a passionate and proactive BackEnd Developer with one year of commercial ex
 I am dedicated to designing and implementing efficient and reliable server-side solutions that meet and exceed my customers' expectations.
 I am a responsible, hardworking, and persistent individual who is committed to achieving goals and constantly improving my skills.
 I am always eager to learn new technologies and industry best practices.
-   
 
-elə deyirlər ))
-<div align="right">
-    <img width="130px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/gmail.png" />
-    <img width="150px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/linkedin.png" />
-    </div>
-
+    elə deyirlər ))
+    
+<Br><br>
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ## <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
-
 - <a href='https://azpointblank.com/' target='_blank'>PointBlank Azerbaijan - 2017-2023
 - <a href='https://www.militaryofzombies.com/' target='_blank'>Military of ZombieZ - 2022-2023
 - <a href='http://mvnstore.com/' target='_blank'>MVNStore - 2022-2023
 - <a href='http://st-pilates.az/' target='_blank'>STPilates - 2023   
+    <br><br>
+    <div align="left">
+    <img width="130px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/gmail.png" />
+    <img width="150px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/linkedin.png" />
+    </div>
+    
 <!-- blog_plugin_start -->
 
 <!-- blog_plugin_end -->
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 <div align="center"> 
 <h1>🛠 Languages and Tools</h1>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>  
