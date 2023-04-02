@@ -8,7 +8,7 @@
    ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
 
-I am a passionate and proactive BackEnd Developer with one year of commercial experience and a professional interest in C#.
+I am a passionate and proactive BackEnd Developer with two year of commercial experience and a professional interest in C#.
 I am dedicated to designing and implementing efficient and reliable server-side solutions that meet and exceed my customers' expectations.
 I am a responsible, hardworking, and persistent individual who is committed to achieving goals and constantly improving my skills.
 I am always eager to learn new technologies and industry best practices.
@@ -31,7 +31,7 @@ I am always eager to learn new technologies and industry best practices.
 <!-- blog_plugin_start -->
 
 <!-- blog_plugin_end -->
-<br><br><br><br><br>
+<br><br><br><br>
 <div align="center"> 
 <h1>🛠 Languages and Tools</h1>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>  
@@ -68,8 +68,3 @@ I am always eager to learn new technologies and industry best practices.
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50"></a>  
 </div>
 <img src="https://github.com/samsirinov/samsirinov/blob/main/dosye/line.svg" width="100%" />
-
-
-<div align="center">
-<img src="https://github.com/samsirinov/samsirinov/blob/main/dosye/commits.gif" alt="Contributions" width="722px" height="112px" />
-</div>
