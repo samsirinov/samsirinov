@@ -12,14 +12,19 @@
    ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @samsirinov
-- 👀 I’m interested in Coding
-- 👨‍💻 I am looking for a Full Stack Developer job 💻
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samsirinov@hotmail.com ||  +994516000890 || samsirinov.com
-- 
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
+## ✏️ My Projects
+
+- <a href='samsirinov.com' target='_blank'>PointBlank Azerbaijan - 2017
+
+
+<!-- blog_plugin_start -->
+
+<!-- blog_plugin_end -->
+<br><br><br><br>
 <div align="center"> 
-<h1>🛠 Languages & Technologies</h1>
+<h1>🛠 Languages and Tools</h1>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"></a>  
