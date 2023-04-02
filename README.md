@@ -7,17 +7,15 @@
 
    ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
-
 I am a passionate and proactive BackEnd Developer with two year of commercial experience and a professional interest in C#.
 I am dedicated to designing and implementing efficient and reliable server-side solutions that meet and exceed my customers' expectations.
 I am a responsible, hardworking, and persistent individual who is committed to achieving goals and constantly improving my skills.
-I am always eager to learn new technologies and industry best practices.
+I am always eager to learn new technologies and industry best practices
 
     elə deyirlər ))
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-## <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
+## <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a> <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
 - <a href='https://azpointblank.com/' target='_blank'>PointBlank Azerbaijan - 2017-2023
 - <a href='https://www.militaryofzombies.com/' target='_blank'>Military of ZombieZ - 2022-2023
 - <a href='http://mvnstore.com/' target='_blank'>MVNStore - 2022-2023
