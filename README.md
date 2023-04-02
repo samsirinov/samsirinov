@@ -1,12 +1,17 @@
 
 <div align="center">
-    <img src="https://media1.giphy.com/media/hqabKVZEZJQuBKvAbU/giphy.gif?cid=6c09b952653d8e9116a21c740828649665c0b912182fb31f&rid=giphy.gif" alt="Contributions" width="722px"  />
+    <img src="https://github.com/samsirinov/samsirinov/blob/main/dosye/pingivin.gif" alt="Samad" />
   <h1>Samad Shirinov</h1></div>
 <div align="center">
 
-  
-  <a href="mailto:sirinovsam@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a> 
-
+  <a href="mailto:sirinovsemed0890@gmail.com">
+ <img alt="Gmail" width="130" hight="100" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/samsirinov/">
+  <img alt="Linkedin" width="150" hight="100" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/linkedin.png" />
+</a>
+<br/>
+    
    ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
 
@@ -17,5 +22,5 @@
 - 📫 How to reach me samsirinov@hotmail.com ||  +994516000890 || samsirinov.com
 - 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" />
+<img src="https://github.com/samsirinov/samsirinov/blob/main/dosye/commits.gif" alt="Contributions" width="722px" height="112px" />
 </div>
