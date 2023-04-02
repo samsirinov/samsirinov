@@ -15,8 +15,8 @@ I am always eager to learn new technologies and industry best practices.
    
 
 elə deyirlər ))
-<div align="left">
-    <img width="150px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/gmail.png" />
+<div align="right">
+    <img width="130px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/gmail.png" />
     <img width="150px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/linkedin.png" />
     </div>
 
