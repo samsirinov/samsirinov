@@ -1,7 +1,7 @@
 
 <div align="center">
     <img src="https://github.com/samsirinov/samsirinov/blob/main/dosye/pingivin.gif" alt="Samad" />
-    <h1><img width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/github.gif" />Samad Shirinov </h1></div>
+    <h1>Samad Shirinov </h1></div>
 <div align="center">
 
 
@@ -39,7 +39,7 @@ I am always eager to learn new technologies and industry best practices</h3>
 <!-- blog_plugin_end -->
 <br><br><br><br>
 <div align="left"> 
-<h1>🛠 Languages and Tools</h1>
+<h1><img width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/github.gif" /> Languages and Tools</h1>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="30" width="40"></a>  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" width="40"></a>  
 <a href="https://www.php.net/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="30" width="40"></a>  
