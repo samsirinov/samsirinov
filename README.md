@@ -8,13 +8,10 @@
    ![counter](https://en62knrojam32k7.m.pipedream.net)
 </div>
 
-<h3>
-I am a passionate and proactive BackEnd Developer with two year of commercial experience and a professional interest in C#.<br>
-I am dedicated to designing and implementing efficient and reliable server-side solutions that meet and exceed my customers' expectations.<br>
-I am a responsible, hardworking, and persistent individual who is committed to achieving goals and constantly improving my skills.
-I am always eager to learn new technologies and industry best practices</h3>
+<h3 align="center">
+FullStack Developer | Game Developer</h3>
 
-    elə deyirlər ))
+    @samsirinov
 
 
 ## <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a> <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
