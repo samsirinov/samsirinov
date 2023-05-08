@@ -18,7 +18,7 @@ FullStack Developer | Game Developer</h3>
 ## <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a> <img alt="SamSirinov | Gmail" width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/SamSirinov/Gold%20Original%20Logo.png" /> My Projects
 - <a href='https://azpointblank.com/' target='_blank'>PointBlank Azerbaijan - 2017-2023</a>
 - <a href='https://www.militaryofzombies.com/' target='_blank'>Military of ZombieZ - 2022-2023</a>
-- <a href='http://mvnstore.com/' target='_blank'>MVNStore - 2022-2023</a>
+- <a href='http://mvnbooks.com/' target='_blank'>MVNBooks - 2022-2023</a>
 - <a href='http://st-pilates.az/' target='_blank'>STPilates - 2023  </a>
     <br><br>
     <div align="left">
