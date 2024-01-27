@@ -34,10 +34,7 @@ Programming Specialist | FullStack Developer</h3>
 
 </p>
     </div>
-    
-<!-- blog_plugin_start -->
 
-<!-- blog_plugin_end -->
 <br><br><br><br>
 <div align="left"> 
 <h1><img width="60px" src="https://github.com/samsirinov/samsirinov/blob/main/dosye/github.gif" /> Languages and Tools</h1>
