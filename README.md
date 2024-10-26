@@ -9,7 +9,7 @@
 </div>
 
 <h3 align="center">
-Programming Specialist | FullStack Developer</h3>
+.NET Developer</h3>
 
     @samsirinov
     @samsirinov@hotmail.com
