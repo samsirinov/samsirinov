@@ -31,6 +31,4 @@ Programming Specialist | FullStack Developer</h3>
 <a href="https://instagram.com/samsirinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcakiroglu16" height="30" width="40" /></a>
 </p>
     </div>
-
-<br><br><br><br>
 <img src="https://github.com/samsirinov/samsirinov/blob/main/dosye/line.svg" width="100%" />
